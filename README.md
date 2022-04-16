@@ -1,2 +1,3 @@
-# SQL Queries explained in Portuguese!
+# Treinamento-MySQL
 Week of training @Hashtag
+SQL Queries explained in Portuguese!

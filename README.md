@@ -1,3 +1,3 @@
 # Treinamento-MySQL
-Week of training @Hashtag
+Week of training @Hashtag <br>
 SQL Queries explained in Portuguese!
